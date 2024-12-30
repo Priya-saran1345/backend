@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS or Editor files
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+yarn.lock
+.pnp.*
+
+# Test coverage
+coverage/
+
+# Static folder contents
+static/
+
+# Next.js build cache
+.next/cache
+
+# Generated yarn.lock file
+yarn.lock

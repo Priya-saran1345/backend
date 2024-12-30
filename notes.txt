@@ -1,0 +1,4 @@
+->make a initail project  by ( npm init)
+->make strt command in package.json 
+   ( "start": "node index.js") now u are only going to start by npm run start
+->add basic express app
