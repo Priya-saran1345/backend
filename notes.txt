@@ -2,3 +2,5 @@
 ->make strt command in package.json 
    ( "start": "node index.js") now u are only going to start by npm run start
 ->add basic express app
+->add the type moduler in package.json for import statement 
+->add all the files and folders in src
